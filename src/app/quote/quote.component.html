@@ -15,8 +15,6 @@
           <p  *ngIf="highestUpvote()!==quote.upvotes || quote.upvotes===0">{{quote.quote}}</p>
           <app-details [quote]="quote" ></app-details>
 
-          <!-- <hr size="50"> -->
-
 
           <button class="btn btn-primary" (click)="upvote(i)">Upvote</button>
           <button class="btn" (click)="downvote(i)">Downvote</button>
