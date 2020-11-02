@@ -1,6 +1,5 @@
 # Quotes
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0. This is a website about quotes where a user will have to enter a quote and see the details of that exact quote which include the upvotes and downvotes, the date on which it was created,the author's name,and the person who submitted the quote.the user is also capable of deleting the quote he/she entered.
 
 ## Development server
 
@@ -26,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # quotes-app
+
+#LICENSE
+MIT license @copyright 2020 published by Edith Reine
