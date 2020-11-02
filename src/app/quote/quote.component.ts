@@ -7,7 +7,7 @@ import {Quote} from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes:Quote[]=[new Quote("Edith","Milan","He who loughs the last lough lasts longer",new Date(2020,10,5)),
-new Quote("Lupita","Black Panther","Wakanda Forever",new Date(2019,3,5))]
+new Quote("Green","Owell","Love lies",new Date(2019,3,5))]
   preNum:number
   lastNum:number
   counter:number
