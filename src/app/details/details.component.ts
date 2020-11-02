@@ -10,6 +10,7 @@ export class DetailsComponent implements OnInit {
   @Input() quote:Quote
   constructor() { }
 
+  
   ngOnInit() {
   }
 
